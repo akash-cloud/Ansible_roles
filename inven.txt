@@ -1,0 +1,1 @@
+ubuntuos ansible_host=10.107.4.162 ansible_ssh_pass=2227 ansible_user=akashubuntu
